@@ -1,0 +1,52 @@
+---
+title: "Technical Examples"
+toc: false
+---
+
+A collection of work samples organized by method!
+
+::: {.panel-tabset}
+
+## GIS Work
+
+I can work in both in ArcGIS and QGIS for spacial analysis. 
+
+- [Surveillance and Inequality in New York City](https://docs.google.com/document/d/1zZgUL6jRCl-NXeJl7oPK9_cGzgDFolenQSg-ca4vjAc/edit?usp=sharing) — This is a paper about surveillance cameras in NYC, using data collected by Amnesty International. While cameras appear evenly distributed across the city's street grid at first glance, running a kernel density estimation and hotspot analysis (using the Getis-Ord Gi* statistic) reveals clear spatial clustering. I overlaid the hotspots onto census tract data, and found that surveillance was disproportionately concentrated in nonwhite, low-income, and high-poverty neighborhoods. For example, 85% of hotspots fell in high-nonwhite tracts, even though those tracts made up only 57% of the city. 
+
+## Machine Learning Work
+
+Algorithms I use are: k-nearest-neighbor, naive Bayes, decision trees and random forests, logistic regression, multiple regression (including ridge and lasso methods), support vector machines. What I love about ML is the logic of model building and testing, and I am always thinking about how these tools can be used for social and behavioral questions!
+
+- [Comparing Classifiers on Online Shopper Purchase Intent](papers/BrownK.DA5030.Project.html) — In this paper, my goal was to predict whether a person would complete a purchase based on their browsing behavior during a single e-commerce session (using the Online Shoppers Purchasing Intention Dataset from UCI). My secondary goal was exploratory, and it was to build a bunch of ensembles using different algorithms to get a sense of the best algorithm for the dataset. I built three bagged homogenous ensembles using k-nearest-neighbor, a boosted decision tree, and logistic regression, then combined them into a weighted heterogeneous ensemble. The boosted decision tree was the strongest model (AUC = 0.930, F1 = 0.669), and the heterogeneous ensemble narrowly edged it out on AUC (0.932) with an almost identical F1 (0.668).
+
+
+## Stats Work
+
+My toolkit spans descriptive statistics, hypothesis testing (t-tests, ANOVA, chi-square, power analysis), and regression (linear, multiple)- done in both STATA and R. I also use R for computational stats, incorporating methods like bootstrapping and cross-validation.
+
+- The best example I have for this is my Computational Stats final, and this coursework is on a private link due to academic policy at Northeastern University. If you would like to read my examples and you are not a student at Northeastern, email me at kelbrown017@gmail.com and I will grant you access. 
+
+## Distant Reading Work
+
+I learned distant reading methods in R, including sentiment analysis, NLP, topic modeling, stylometry, and network analysis at the European Summer University for Digital Humanities workshop. These are really fun and interesting to me, and I am excited to continue incorporating them into my work. 
+
+For these samples,I focused on a topic that connects to my broader interest in online communities and political discourse: r/Antiwork, a well-known left-leaning subreddit. I scraped the posts using the Arctic Shift archive, a tool for accessing historical Reddit data.
+
+- [Examples of NLP, Sentiment Analysis, and Topic Modeling](Work Examples/Work_Examples/ex1.html) — This is some sample NLP, Sentiment Analysis, and Topic Modeling work, with data scraped from r/Antiwork.
+
+
+## Social Policy Work
+
+As a Research Assistant II (highest level of assistantship) at MDRC, I focused on economic mobility, housing, and community. Here, I participated in and led a variety of policy evaluations. My key projects included: evaluating a city-wise UBI initiative in Cambridge, evaluating Virginia's WGS grant for noncredit technical education in community colleges, evaluating a holistic neighborhood revitalization model (the Purpose Built Communities Model), and evaluating an initiative to include financial counseling in workforce departments (testing the "Supervitamin Effect"). 
+
+- [Noncredit Career and Technical Education Programs in Virginia](https://www.mdrc.org/work/publications/noncredit-career-and-technical-education-programs-virginia) — Early findings from the FastForward Study.
+- [Building Mixed-Income Neighborhoods](https://www.mdrc.org/work/publications/building-mixed-income-neighborhoods) — Findings from an Evaluation of Purpose Built Communities. 
+
+## UX Work
+
+I've done UX and corporate knowledge building research in a few industries, including tech, fashion / beauty and lifestyle. Due to the specifics of my NDAs, all examples, including quotes and numbers, are falsified/anonymized. Instead, these examples just give a glimpse into the type of work I do. 
+
+- [AI and Gaming Behaviors of Women and Gen Z](https://docs.google.com/presentation/d/1WKIr0KpKYSFI899AXlLTrNFOUhSP3yTHwZAQL9Mkanw/edit?usp=sharing) — knowledge-building project on women and nonbinary folks' orientations to both gaming and AI across 6 countries. 
+- [Cookies Case Study](https://docs.google.com/presentation/d/1YAMtAY7PhZGYR5xKbU-m3J7kQ8X2l627cXjXJWthSPE/edit?usp=sharing) — Concept testing on brand collaborations for cookie flavors.
+
+:::

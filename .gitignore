@@ -1,0 +1,6 @@
+.quarto/
+_site/
+.Rproj.user/
+.DS_Store
+Work Examples/Work_Examples/models/cb_ns_500_10.w2v
+Work Examples/Work_Examples/english-ewt-ud-2.5-191206.udpipe

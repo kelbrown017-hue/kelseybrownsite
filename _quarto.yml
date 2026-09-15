@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Kelsey Brown"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: Research.qmd
+        text: Research & Interests
+      - href: work.qmd
+        text: Technical Examples
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
