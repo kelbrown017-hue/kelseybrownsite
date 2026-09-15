@@ -1,0 +1,55 @@
+---
+title: "Technical Examples"
+toc: false
+---
+
+A collection of work samples organized by method!
+
+::: {.panel-tabset}
+
+## GIS Work
+
+I can work in both in ArcGIS and QGIS for spacial analysis. 
+
+- [Surveillance and Inequality in New York City](https://docs.google.com/document/d/1zZgUL6jRCl-NXeJl7oPK9_cGzgDFolenQSg-ca4vjAc/edit?usp=sharing) — This is a paper about surveillance cameras in NYC, using data collected by Amnesty International. While cameras appear evenly distributed across the city's street grid at first glance, running a kernel density estimation and hotspot analysis (using the Getis-Ord Gi* statistic) reveals clear spatial clustering. I overlaid the hotspots onto census tract data, and found that surveillance was disproportionately concentrated in nonwhite, low-income, and high-poverty neighborhoods. For example, 85% of hotspots fell in high-nonwhite tracts, even though those tracts made up only 57% of the city. 
+
+## Machine Learning Work
+
+Algorithms I use are: k-nearest-neighbor, naive Bayes, decision trees and random forests, logistic regression, multiple regression (including ridge and lasso methods), support vector machines. What I love about ML is the logic of model building and testing, and I am always thinking about how these tools can be used for social and behavioral questions!
+
+- [Comparing Classifiers on Online Shopper Purchase Intent] (papers/BrownK.DA5030.Project.html) — In this paper, my goal was to predict whether a person would complete a purchase based on their browsing behavior during a single e-commerce session (using the Online Shoppers Purchasing Intention Dataset from UCI). My secondary goal was exploratory, and it was to build a bunch of ensembles using different algorithms to get a sense of the best algorithm for the dataset. I built three bagged homogenous ensembles using k-nearest-neighbor, a boosted decision tree, and logistic regression, then combined them into a weighted heterogeneous ensemble. The boosted decision tree was the strongest model (AUC = 0.930, F1 = 0.669), and the heterogeneous ensemble narrowly edged it out on AUC (0.932) with an almost identical F1 (0.668).
+
+
+## Stats Work
+
+My toolkit spans descriptive statistics, hypothesis testing (t-tests, ANOVA, chi-square, power analysis), and regression (linear, multiple)- done in both STATA and R. I also use R for computational stats, incorporating methods like bootstrapping and cross-validation.
+
+- The best example I have for this is my Computational Stats final, and this coursework is on a private link due to academic policy at Northeastern University. If you would like to read my examples and you are not a student at Northeastern, email me at kelbrown017@gmail.com and I will grant you access. 
+
+## Distant Reading Work
+
+I learned distant reading methods in R, including sentiment analysis, NLP, topic modeling, stylometry, and network analysis at the European Summer University for Digital Humanities workshop. These are really fun and interesting to me, and I am excited to continue incorporating them into my work. 
+
+For these samples, aligning with my interest in norm creation and enforcement, I pulled The Age of Innocence (Wharton) from Project Gutenberg. 
+
+- [Project name](add-drive-link) — This is some sample NLP work. 
+- [Project name](add-drive-link) — This is some sample sentiment analysis using the syuzet method. 
+- This runs some basic stylometry on the corpus. For a single novel, that could mean comparing narrative style/word choice around characters who conform (May) vs. characters who break norms (Ellen), or comparing early chapters (before the scandal) to later ones (after)
+- [Project name](add-drive-link) — This is a sample network that I made 
+
+
+## UX Work
+
+Brief intro to your UX research work goes here.
+
+- [Project name](add-drive-link) — one line on what it shows
+- [Project name](add-drive-link) — one line on what it shows
+
+## Social Policy Work
+
+Brief intro to your social policy work goes here.
+
+- [Project name](add-drive-link) — one line on what it shows
+- [Project name](add-drive-link) — one line on what it shows
+
+:::

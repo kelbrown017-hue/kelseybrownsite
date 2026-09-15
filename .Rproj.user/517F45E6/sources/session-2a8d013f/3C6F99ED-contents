@@ -1,0 +1,69 @@
+---
+title: "Distant Reading"
+output:
+  pdf_document: default
+
+---
+
+## Day 1: Intro to R and distant reading
+
+### Franco Moretti: Conjectures on World Lit
+
+- "second hand reading"- form secondary sources
+- visualizing the reading
+- macroanalysis, computational literary studies 
+- science and humanities always have a tension, unstable but productive balance between quant and qual 
+
+### Why R? 
+
+- its a community! 
+- R combines graph interfaces and programming :) 
+
+```{r}
+install.packages("ggwordcloud")
+install.packages("htmltools")
+install.packages("htmlwidgets")
+install.packages("igraph") 
+install.packages("lattice")
+
+```
+```{r}
+install.packages(c(
+  "leafem",
+  "leaflet",
+  "leaflet.extras",
+  "leaflet.minicharts",
+  "leafpop",
+  "mallet",
+  "mapview",
+  "network",
+  "networkD3",
+  "quanteda",
+  "raster",
+  "RColorBrewer",
+  "reshape2",
+  "rgdal",
+  "sf",
+  "sp",
+  "stylo",
+  "syuzhet",
+  "tidyverse",
+  "topicmodels",
+  "udpipe",
+  "word2vec",
+  "GGally",
+  "htmltools",
+  "ggridges",
+  "quanteda.textstats",
+  "quanteda.textplots",
+  "irr",
+  "plotly",
+  "geonames",
+  "plyr",
+  "tidytext",
+  "maditr"
+))
+```
+
+
+
