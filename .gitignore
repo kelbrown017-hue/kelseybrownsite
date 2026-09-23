@@ -4,3 +4,6 @@ _site/
 .DS_Store
 Work Examples/Work_Examples/models/cb_ns_500_10.w2v
 Work Examples/Work_Examples/english-ewt-ud-2.5-191206.udpipe
+
+/.quarto/
+**/*.quarto_ipynb
