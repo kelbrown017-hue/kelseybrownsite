@@ -1,26 +1,26 @@
 {
-    "id": "2747D45F",
-    "path": "~/Downloads/ESU/Distant_Reading_in_R/Text_Analysis/06_Topic_modeling.R",
+    "id": "C9EC9A09",
+    "path": "~/Downloads/ESU/Distant_Reading_in_R/Text_Analysis/02_NLP.R",
     "project_path": null,
     "type": "r_source",
-    "hash": "0",
+    "hash": "3743359382",
     "contents": "",
     "dirty": false,
-    "created": 1788977057009.0,
+    "created": 1788914418655.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 5,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "186,0",
-        "scrollLine": "170"
+        "cursorPosition": "230,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1783585204,
+    "lastKnownWriteTime": 1783432765,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1783585204,
+    "last_content_update": 1783432765,
     "read_only": false,
     "read_only_alternatives": []
 }

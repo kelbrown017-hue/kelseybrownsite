@@ -1,26 +1,26 @@
 {
-    "id": "AB7B5C6B",
-    "path": "~/mysite/Research.qmd",
+    "id": "8FB70939",
+    "path": "~/mysite/index.qmd",
     "project_path": null,
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2506722635",
     "contents": "",
-    "dirty": true,
-    "created": 1787859968710.0,
+    "dirty": false,
+    "created": 1790125953338.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,271",
-        "scrollLine": "1"
+        "cursorPosition": "17,62",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1787956848,
+    "lastKnownWriteTime": 1790125964,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1788194299321,
+    "last_content_update": 1790125964669,
     "read_only": false,
     "read_only_alternatives": []
 }
