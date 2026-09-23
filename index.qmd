@@ -13,7 +13,7 @@ about:
       href: https://www.linkedin.com/in/kelsey-brown-90b923354/
 ---
 
-Hi, I'm Kelsey! I am a mixed-methods researcher working at the intersection of sociology and computational social science.
+Hi, I'm Kelsey! I am a mixed-methods researcher working at the intersection of sociology and computer science.
 
 I study how communities construct norms and enforce boundaries. I've done this ethnographically and now computationally! I work with qualitative methods, statistical modeling, NLP, sentiment analysis, topic modeling, and machine learning in R.
 
