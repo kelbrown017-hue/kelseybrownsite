@@ -13,12 +13,9 @@ about:
       href: https://www.linkedin.com/in/kelsey-brown-90b923354/
 ---
 
-Hi, I'm Kelsey! I am a mixed-methods researcher working at the intersection of sociology and computer science.
+I'm a mixed-methods researcher working across sociology and computer science. I study how communities and institutions draw boundaries: who belongs, who gets watched, and how those lines come to feel normal.
 
-I study how communities construct norms and enforce boundaries. I've done this ethnographically and now computationally! I work with qualitative methods, statistical modeling, NLP, sentiment analysis, topic modeling, and machine learning in R.
-
-I'm finishing an MS in Computational Social Science at Northeastern and currently am working on a paper about norm enforcement in online subcultures. More on that soon! 
+I've come at this question through ethnography, applied policy research, and user research on digital platforms. Now I'm combining that work with computational methods. I'm finishing an MS in Applied Quantitative Research for Social Analysis, concentrating in Computational Social Science, at Northeastern University.
 
 If you'd like to collaborate or just talk research: [kelbrown017@gmail.com](mailto:kelbrown017@gmail.com)
 
-*Also, I learned quarto and built this site myself, another example of my computational prowess :)* 

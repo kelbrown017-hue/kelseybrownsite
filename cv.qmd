@@ -66,6 +66,11 @@ Boston University — Kilachand Honors College • Minors: Women, Gender & Sexua
 
 ## Research Experience
 
+**Northeastern University – Graduate Research Assistant** &nbsp;&nbsp;*Oct 2026 – Present*-
+*Boston, MA*
+
+- Building a machine learning classifier to identify solutions journalism in news coverage, under Prof. Rahul Bhargava
+
 **Fluent Research — Freelance Researcher** &nbsp;&nbsp;*Sept 2025 – Feb 2026*- 
 *New York, NY*
 
